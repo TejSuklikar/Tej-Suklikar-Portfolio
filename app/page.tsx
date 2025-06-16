@@ -119,7 +119,7 @@ export default function Portfolio() {
       logo: "/logos/umiacs-logo.png",
       website: "https://www.umiacs.umd.edu/",
       description: [
-        "Collaborated with Dr. Naomi Feldman and graduate fellow Imani Finkley to propose a framework for assessing novelty in LLM-generated literature.",
+        "Collaborated with Dr. Naomi Feldman and graduate fellow Imani Finkley to design and execute experiments measuring textual novelty in LLM-generated literature, testing how prompt specificity affects model creativity.",
         "Applied the Creativity Index and n-gram analysis to measure lexical and thematic variation across model outputs.",
         "Fine-tuned and evaluated OPT-175b and BERT under varied prompt conditions to analyze LLM output behavior.",
       ],
