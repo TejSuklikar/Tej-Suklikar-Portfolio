@@ -101,7 +101,7 @@ export default function Portfolio() {
 
   const experiences = [
     {
-      title: "Software Engineer Intern",
+      title: "Software Engineering Intern",
       company: "Anoki AI",
       location: "Mountain View, CA",
       period: "Jun 2025 - Present",
@@ -112,7 +112,7 @@ export default function Portfolio() {
       ],
     },
     {
-      title: "Undergraduate Research Assistant",
+      title: "Computational Linguistics Research Assistant",
       company: "UMIACS",
       location: "College Park, MD",
       period: "Jan 2025 - Jun 2025",
@@ -392,8 +392,8 @@ export default function Portfolio() {
               complex problems across various industries, and I'm eager to explore new ways these technologies can be
               applied, uncovering creative solutions and pushing technological boundaries. Currently, I'm honing my
               skills as a <span className="font-semibold">Software Engineering Intern</span> at{" "}
-              <span className="font-semibold">Anoki AI</span>, focusing on{" "}
-              <span className="font-semibold">Generative AI applications</span>.
+              <span className="font-semibold">Anoki AI</span>, where I'm working on their multimodal{" "}
+              <span className="font-semibold">ContextIQ</span> platform for contextual video intelligence.
             </p>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-light mb-8">
               <span className="italic">When I'm not coding</span>, I enjoy playing soccer, golfing, working out, and
