@@ -108,7 +108,7 @@ export default function Portfolio() {
       logo: "/logos/anoki-logo.png",
       website: "https://www.anoki.ai/",
       description: [
-        "Building internal systems within the Engineering Augmentation and Machine Learning teams to support Anoki's AI-powered ContextIQ platform and streamline content operations at scale.",
+        "Building internal systems within the Engineering Augmentation and Machine Learning teams to support Anoki's multimodal ContextIQ platform and streamline content operations at scale.",
       ],
     },
     {
