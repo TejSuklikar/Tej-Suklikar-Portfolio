@@ -249,11 +249,11 @@ export default function Portfolio() {
         { name: "JavaScript/TypeScript", icon: "/logos/skills/typescript-javascript-logo.png" },
         { name: "C", icon: "/logos/skills/c-logo.png" },
         { name: "C++", icon: "/logos/skills/cpp-logo-new.png" },
+        { name: "Go", icon: "/logos/skills/go-logo.png" },
         { name: "R", icon: "/logos/skills/r-logo.png" },
         { name: "SQL", icon: "/logos/skills/sql-logo.png" },
         { name: "HTML/CSS", icon: "/logos/skills/html-css-logo.png" },
         { name: "OCaml", icon: "/logos/skills/ocaml-logo.png" },
-        { name: "Assembly", icon: "/logos/skills/assembly-logo.png" },
       ],
     },
     {
