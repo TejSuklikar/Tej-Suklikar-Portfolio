@@ -101,14 +101,15 @@ export default function Portfolio() {
 
   const experiences = [
     {
-      title: "Software Engineering Intern",
+      title: "Machine Learning Engineer Intern",
       company: "Anoki AI",
       location: "Mountain View, CA",
       period: "Jun 2025 - Present",
       logo: "/logos/anoki-logo.png",
       website: "https://www.anoki.ai/",
       description: [
-        "Building internal systems within the Engineering Augmentation and Machine Learning teams to support Anoki's multimodal ContextIQ platform and streamline content operations at scale.",
+        "Improving the infrastructure, reliability, and scalability of Anoki's multimodal video analysis platform, ContextIQ, by migrating it from a single GPU server to Kubernetes.",
+        "Building a Go library that uses the Kubernetes API to launch on-demand GPU jobs, triggered by media queries, to fetch video embeddings from S3, run the embedding service, and shut down automatically to optimize compute efficiency.",
       ],
     },
     {
@@ -139,7 +140,7 @@ export default function Portfolio() {
       ],
     },
     {
-      title: "Software Engineering Intern",
+      title: "Software Engineer Intern",
       company: "Karya",
       location: "",
       period: "Aug 2024 - May 2025",
@@ -152,7 +153,7 @@ export default function Portfolio() {
       ],
     },
     {
-      title: "Software Engineering Intern",
+      title: "Software Engineer Intern",
       company: "Decision Factories",
       location: "",
       period: "May 2024 - Aug 2024",
@@ -249,11 +250,11 @@ export default function Portfolio() {
         { name: "JavaScript/TypeScript", icon: "/logos/skills/typescript-javascript-logo.png" },
         { name: "C", icon: "/logos/skills/c-logo.png" },
         { name: "C++", icon: "/logos/skills/cpp-logo-new.png" },
-        { name: "Go", icon: "/logos/skills/go-logo.png" },
         { name: "R", icon: "/logos/skills/r-logo.png" },
         { name: "SQL", icon: "/logos/skills/sql-logo.png" },
         { name: "HTML/CSS", icon: "/logos/skills/html-css-logo.png" },
         { name: "OCaml", icon: "/logos/skills/ocaml-logo.png" },
+        { name: "Assembly", icon: "/logos/skills/assembly-logo.png" },
       ],
     },
     {
