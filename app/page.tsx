@@ -168,6 +168,24 @@ export default function Portfolio() {
 
   const projects = [
     {
+      title: "JourneyFlow: AI Travel Planner",
+      category: "MACHINE LEARNING",
+      description:
+        "Privacy-preserving iOS application that creates personalized travel itineraries using Apple's on-device foundation models and GPT-5, with deterministic, modular LLM reasoning powered by DSPy pipelines.",
+      technologies: ["Swift", "Apple Foundation Models", "GPT-5", "DSPy"],
+      icon: "✈️",
+      demo: "https://github.com/TejSuklikar/JourneyFlow",
+    },
+    {
+      title: "QuickDesk: Freelancer Workflow Platform",
+      category: "MACHINE LEARNING",
+      description:
+        "Android application that automates freelancer workflows using Claude-powered agents to parse emails, extract project details, and generate contracts and invoices, supported by a React Native–FastAPI–MongoDB stack coordinating asynchronous Intake, Contract, and Billing agents.",
+      technologies: ["React.js", "FastAPI", "Claude", "MongoDB"],
+      icon: "💼",
+      demo: "https://github.com/TejSuklikar/QuickDesk",
+    },
+    {
       title: "EcoNavix",
       category: "MACHINE LEARNING",
       description:
