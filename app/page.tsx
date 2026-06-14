@@ -101,10 +101,19 @@ export default function Portfolio() {
 
   const experiences = [
     {
+      title: "Software Development Engineer Intern",
+      company: "Amazon Web Services (AWS)",
+      location: "Santa Clara, CA",
+      period: "Jun 2026 - Present",
+      logo: "/logos/aws-experience-logo.png",
+      website: "https://aws.amazon.com/",
+      description: ["EC2 Networking."],
+    },
+    {
       title: "Machine Learning Engineer Intern",
       company: "Anoki AI",
       location: "Mountain View, CA",
-      period: "Jun 2025 - Present",
+      period: "Jun 2025 - Dec 2025",
       logo: "/logos/anoki-logo.png",
       website: "https://www.anoki.ai/",
       description: [
@@ -409,13 +418,12 @@ export default function Portfolio() {
               I'm a Computer Science and Linguistics student at the University of Maryland, passionate about developing
               innovative software solutions. I focus on leveraging AI, Machine Learning, and Data Science to solve
               complex problems across various industries, and I'm eager to explore new ways these technologies can be
-              applied, uncovering creative solutions and pushing technological boundaries. Currently, I'm honing my
-              skills as a <span className="font-semibold">Software Engineering Intern</span> at{" "}
-              <span className="font-semibold">Anoki AI</span>, where I'm working on their multimodal{" "}
-              <span className="font-semibold">ContextIQ</span> platform for contextual video intelligence.
+              applied, uncovering creative solutions and pushing technological boundaries. Currently, I'm a{" "}
+              <span className="font-semibold">Software Development Engineer Intern</span> at{" "}
+              <span className="font-semibold">Amazon Web Services (AWS)</span>.
             </p>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-light mb-8">
-              <span className="italic">When I'm not coding</span>, I enjoy playing soccer, golfing, working out, and
+              <span className="italic">When I'm not building</span>, I enjoy playing soccer, golfing, working out, and
               spending time with my dog, Beau.
             </p>
             <div className="flex items-center justify-center space-x-2 text-blue-300">
