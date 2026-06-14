@@ -105,7 +105,7 @@ export default function Portfolio() {
       company: "Amazon Web Services (AWS)",
       location: "Santa Clara, CA",
       period: "Jun 2026 - Present",
-      logo: "/logos/skills/aws-logo.png",
+      logo: "/logos/aws-experience-logo.png",
       website: "https://aws.amazon.com/",
       description: ["EC2 Networking."],
     },
@@ -423,7 +423,7 @@ export default function Portfolio() {
               <span className="font-semibold">Amazon Web Services (AWS)</span>.
             </p>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-light mb-8">
-              <span className="italic">When I'm not coding</span>, I enjoy playing soccer, golfing, working out, and
+              <span className="italic">When I'm not building</span>, I enjoy playing soccer, golfing, working out, and
               spending time with my dog, Beau.
             </p>
             <div className="flex items-center justify-center space-x-2 text-blue-300">
