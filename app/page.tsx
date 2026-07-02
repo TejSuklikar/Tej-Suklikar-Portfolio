@@ -117,8 +117,8 @@ export default function Portfolio() {
       logo: "/logos/anoki-logo.png",
       website: "https://www.anoki.ai/",
       description: [
-        "Improving the infrastructure, reliability, and scalability of Anoki's multimodal video analysis platform, ContextIQ, by migrating it from a single GPU server to Kubernetes.",
-        "Building a Go library that uses the Kubernetes API to launch on-demand GPU jobs, triggered by media queries, to fetch video embeddings from S3, run the embedding service, and shut down automatically to optimize compute efficiency.",
+        "Improved the infrastructure, reliability, and scalability of Anoki's multimodal video analysis platform, ContextIQ, by migrating it from a single GPU server to Kubernetes.",
+        "Built a Go library that uses the Kubernetes API to launch on-demand GPU jobs, triggered by media queries, to fetch video embeddings from S3, run the embedding service, and shut down automatically to optimize compute efficiency.",
       ],
     },
     {
